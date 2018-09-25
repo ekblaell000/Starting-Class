@@ -1,4 +1,4 @@
-
+* [Syllabus] (hyttp://ekblaell000.github.io/Starting-Class/syllabus)
 * [IB MYP Upper School](https://shawnwegs.github.io/Starting-Class/IB-MYP-US-syllabus)
 
 
